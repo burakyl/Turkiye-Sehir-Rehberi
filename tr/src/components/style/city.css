@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Grape+Nuts&display=swap');
+
+body {
+  background-color: #ffffff;
+}
+h1 {
+  font-family: 'Grape Nuts', cursive;
+
+  font-size: 464%;
+}
+i {
+  font-size: 214%;
+}
+
+.division0 {
+  background: #ffffff;
+  text-align: center;
+  
+}
+img{
+  max-width: 700px;
+}
+.division1 {
+  margin: 2%;
+    float: right;
+}
+.division2 {
+  text-align: left;
+  margin-left: 3%;
+  margin-right: 3%;
+  font-family: 'EB Garamond', serif;
+}
+b{
+font-size: 150%;
+}
+p{
+  font-size: 120%;
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Grape+Nuts&display=swap');
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .title{
+  font-family: 'Grape Nuts', cursive;
+    font-size: 550%;
+    color: #504a83;
+  }
+  
